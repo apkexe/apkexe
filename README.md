@@ -17,7 +17,7 @@ AI Engineer at IBM, building intelligent AI Agents and agentic systems.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ## 📊 GitHub Stats
-![apkexe's GitHub stats](https://github-readme-stats.vercel.app/api?username=apkexe&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=apkexe&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 📚 Currently Learning
 - Digital Image Processing
