@@ -1,6 +1,6 @@
 # Hi, I'm Konstantinos 👋
 
-AI Engineer at IBM, building intelligent AI Agents and agentic systems.
+AI/ML Research Engineer at Orfium.
 
 ## 🤖 What I do
 - Design and build **AI Agents** and multi-agent pipelines
