@@ -1,6 +1,6 @@
 # Hi, I'm Konstantinos 👋
 
-AI/ML Research Engineer at Orfium.
+AI/ML Research Engineer.
 
 ## 🤖 What I do
 - Design and build **AI Agents** and multi-agent pipelines
