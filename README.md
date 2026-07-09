@@ -16,9 +16,6 @@ AI/ML Research Engineer.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=apkexe)](https://git.io/streak-stats)
-
 ## 📚 Currently Learning
 - Digital Image Processing
 
