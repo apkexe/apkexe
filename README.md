@@ -20,6 +20,6 @@ AI/ML Research Engineer at Orfium.
 - Digital Image Processing
 
 ## 🎯 Interests
-- 🎵 Music & Sound Engineering
+- 🎵 Music
 - 🎬 Movies
 - 🏃 Running
